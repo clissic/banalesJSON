@@ -16,10 +16,10 @@
         "location": "Pocitos, Montevideo, Uruguay",
         "area": "112",
         "pictures": [
-            "./assets/images/bar-olimpico/pic1.jpg",
-            "./assets/images/bar-olimpico/pic2.jpg",
-            "./assets/images/bar-olimpico/pic3.jpg",
-            "./assets/images/bar-olimpico/pic4.jpg"
+            "./assets/images/bar-olimpico/pic1.webp",
+            "./assets/images/bar-olimpico/pic2.webp",
+            "./assets/images/bar-olimpico/pic3.webp",
+            "./assets/images/bar-olimpico/pic4.webp"
         ]
     },
     {
@@ -40,12 +40,12 @@
         "location": "Barrio Sur, Montevideo, Uruguay",
         "area": "225",
         "pictures": [
-            "./assets/images/barrio-sur/pic1.jpg",
-            "./assets/images/barrio-sur/pic2.jpg",
-            "./assets/images/barrio-sur/pic3.jpg",
-            "./assets/images/barrio-sur/pic4.jpg",
-            "./assets/images/barrio-sur/pic5.jpg",
-            "./assets/images/barrio-sur/pic6.jpg"
+            "./assets/images/barrio-sur/pic1.webp",
+            "./assets/images/barrio-sur/pic2.webp",
+            "./assets/images/barrio-sur/pic3.webp",
+            "./assets/images/barrio-sur/pic4.webp",
+            "./assets/images/barrio-sur/pic5.webp",
+            "./assets/images/barrio-sur/pic6.webp"
         ]
     },
     {
@@ -66,15 +66,15 @@
         "location": "Bella Vista, Maldonado, Uruguay",
         "area": "90",
         "pictures": [
-            "./assets/images/bella-vista/pic1.jpg",
-            "./assets/images/bella-vista/pic2.jpg",
-            "./assets/images/bella-vista/pic3.jpg",
-            "./assets/images/bella-vista/pic4.jpg",
-            "./assets/images/bella-vista/pic5.jpg",
-            "./assets/images/bella-vista/pic6.jpg",
-            "./assets/images/bella-vista/pic7.jpg",
-            "./assets/images/bella-vista/pic8.jpg",
-            "./assets/images/bella-vista/pic9.jpg"
+            "./assets/images/bella-vista/pic1.webp",
+            "./assets/images/bella-vista/pic2.webp",
+            "./assets/images/bella-vista/pic3.webp",
+            "./assets/images/bella-vista/pic4.webp",
+            "./assets/images/bella-vista/pic5.webp",
+            "./assets/images/bella-vista/pic6.webp",
+            "./assets/images/bella-vista/pic7.webp",
+            "./assets/images/bella-vista/pic8.webp",
+            "./assets/images/bella-vista/pic9.webp"
         ]
     },
     {
@@ -94,12 +94,12 @@
         "location": "Ciudad Vieja, Maldonado, Uruguay",
         "area": "90",
         "pictures": [
-            "./assets/images/cafe-bacacay/pic1.jpg",
-            "./assets/images/cafe-bacacay/pic2.jpg",
-            "./assets/images/cafe-bacacay/pic3.jpg",
-            "./assets/images/cafe-bacacay/pic4.jpg",
-            "./assets/images/cafe-bacacay/pic5.jpg",
-            "./assets/images/cafe-bacacay/pic6.jpg"
+            "./assets/images/cafe-bacacay/pic1.webp",
+            "./assets/images/cafe-bacacay/pic2.webp",
+            "./assets/images/cafe-bacacay/pic3.webp",
+            "./assets/images/cafe-bacacay/pic4.webp",
+            "./assets/images/cafe-bacacay/pic5.webp",
+            "./assets/images/cafe-bacacay/pic6.webp"
         ]
     },
     {
@@ -120,14 +120,14 @@
         "location": "Colonia del Sacramento, Uruguay",
         "area": "75",
         "pictures": [
-            "./assets/images/casa-colonia/pic1.jpg",
-            "./assets/images/casa-colonia/pic2.jpg",
-            "./assets/images/casa-colonia/pic3.jpg",
-            "./assets/images/casa-colonia/pic4.jpg",
-            "./assets/images/casa-colonia/pic5.jpg",
-            "./assets/images/casa-colonia/pic6.jpg",
-            "./assets/images/casa-colonia/pic7.jpg",
-            "./assets/images/casa-colonia/pic8.jpg"
+            "./assets/images/casa-colonia/pic1.webp",
+            "./assets/images/casa-colonia/pic2.webp",
+            "./assets/images/casa-colonia/pic3.webp",
+            "./assets/images/casa-colonia/pic4.webp",
+            "./assets/images/casa-colonia/pic5.webp",
+            "./assets/images/casa-colonia/pic6.webp",
+            "./assets/images/casa-colonia/pic7.webp",
+            "./assets/images/casa-colonia/pic8.webp"
         ]
     },
     {
@@ -147,10 +147,10 @@
         "location": "El Pinar, Canelones, Uruguay",
         "area": "70",
         "pictures": [
-            "./assets/images/contencalifa/pic1.jpg",
-            "./assets/images/contencalifa/pic2.jpg",
-            "./assets/images/contencalifa/pic3.jpg",
-            "./assets/images/contencalifa/pic4.jpg"
+            "./assets/images/contencalifa/pic1.webp",
+            "./assets/images/contencalifa/pic2.webp",
+            "./assets/images/contencalifa/pic3.webp",
+            "./assets/images/contencalifa/pic4.webp"
         ]
     },
     {
@@ -170,13 +170,13 @@
         "location": "Sauce de Portezuelo, Maldonado, Uruguay",
         "area": "95",
         "pictures": [
-            "./assets/images/fita/pic1.jpg",
-            "./assets/images/fita/pic2.jpg",
-            "./assets/images/fita/pic3.jpg",
-            "./assets/images/fita/pic4.jpg",
-            "./assets/images/fita/pic5.jpg",
-            "./assets/images/fita/pic6.jpg",
-            "./assets/images/fita/pic7.jpg"
+            "./assets/images/fita/pic1.webp",
+            "./assets/images/fita/pic2.webp",
+            "./assets/images/fita/pic3.webp",
+            "./assets/images/fita/pic4.webp",
+            "./assets/images/fita/pic5.webp",
+            "./assets/images/fita/pic6.webp",
+            "./assets/images/fita/pic7.webp"
         ]
     },
     {
@@ -197,11 +197,11 @@
         "location": "Cuidad Vieja, Montevideo, Uruguay",
         "area": "95",
         "pictures": [
-            "./assets/images/ganesha/pic1.jpg",
-            "./assets/images/ganesha/pic2.jpg",
-            "./assets/images/ganesha/pic3.jpg",
-            "./assets/images/ganesha/pic4.jpg",
-            "./assets/images/ganesha/pic5.jpg"
+            "./assets/images/ganesha/pic1.webp",
+            "./assets/images/ganesha/pic2.webp",
+            "./assets/images/ganesha/pic3.webp",
+            "./assets/images/ganesha/pic4.webp",
+            "./assets/images/ganesha/pic5.webp"
         ]
     },
     {
@@ -221,13 +221,13 @@
         "location": "Carrasco, Montevideo, Uruguay",
         "area": "767",
         "pictures": [
-            "./assets/images/julieta/pic1.jpg",
-            "./assets/images/julieta/pic2.jpg",
-            "./assets/images/julieta/pic3.jpg",
-            "./assets/images/julieta/pic4.jpg",
-            "./assets/images/julieta/pic5.jpg",
-            "./assets/images/julieta/pic6.jpg",
-            "./assets/images/julieta/pic7.jpg"
+            "./assets/images/julieta/pic1.webp",
+            "./assets/images/julieta/pic2.webp",
+            "./assets/images/julieta/pic3.webp",
+            "./assets/images/julieta/pic4.webp",
+            "./assets/images/julieta/pic5.webp",
+            "./assets/images/julieta/pic6.webp",
+            "./assets/images/julieta/pic7.webp"
         ]
     },
     {
@@ -247,10 +247,10 @@
         "location": "Punta del Este, Maldonado, Uruguay",
         "area": "90",
         "pictures": [
-            "./assets/images/kaboa/pic1.jpg",
-            "./assets/images/kaboa/pic2.jpg",
-            "./assets/images/kaboa/pic3.jpg",
-            "./assets/images/kaboa/pic4.jpg"
+            "./assets/images/kaboa/pic1.webp",
+            "./assets/images/kaboa/pic2.webp",
+            "./assets/images/kaboa/pic3.webp",
+            "./assets/images/kaboa/pic4.webp"
         ]
     },
     {
@@ -271,13 +271,13 @@
         "location": "Barrio privado Asunción, Canelones, Uruguay",
         "area": "180",
         "pictures": [
-            "./assets/images/la-asuncion/pic1.jpg",
-            "./assets/images/la-asuncion/pic2.jpg",
-            "./assets/images/la-asuncion/pic3.jpg",
-            "./assets/images/la-asuncion/pic4.jpg",
-            "./assets/images/la-asuncion/pic5.jpg",
-            "./assets/images/la-asuncion/pic6.jpg",
-            "./assets/images/la-asuncion/pic7.jpg"
+            "./assets/images/la-asuncion/pic1.webp",
+            "./assets/images/la-asuncion/pic2.webp",
+            "./assets/images/la-asuncion/pic3.webp",
+            "./assets/images/la-asuncion/pic4.webp",
+            "./assets/images/la-asuncion/pic5.webp",
+            "./assets/images/la-asuncion/pic6.webp",
+            "./assets/images/la-asuncion/pic7.webp"
         ]
     },
     {
@@ -297,14 +297,14 @@
         "location": "Punta Carretas, Montevideo, Uruguay",
         "area": "180",
         "pictures": [
-            "./assets/images/la-diagonal/pic1.jpg",
-            "./assets/images/la-diagonal/pic2.jpg",
-            "./assets/images/la-diagonal/pic3.jpg",
-            "./assets/images/la-diagonal/pic4.jpg",
-            "./assets/images/la-diagonal/pic5.jpg",
-            "./assets/images/la-diagonal/pic6.jpg",
-            "./assets/images/la-diagonal/pic7.jpg",
-            "./assets/images/la-diagonal/pic8.jpg"
+            "./assets/images/la-diagonal/pic1.webp",
+            "./assets/images/la-diagonal/pic2.webp",
+            "./assets/images/la-diagonal/pic3.webp",
+            "./assets/images/la-diagonal/pic4.webp",
+            "./assets/images/la-diagonal/pic5.webp",
+            "./assets/images/la-diagonal/pic6.webp",
+            "./assets/images/la-diagonal/pic7.webp",
+            "./assets/images/la-diagonal/pic8.webp"
         ]
     },
     {
@@ -327,11 +327,11 @@
         "location": "Lagomar, Canelones, Uruguay",
         "area": "220",
         "pictures": [
-            "./assets/images/lagomar/pic1.jpg",
-            "./assets/images/lagomar/pic2.jpg",
-            "./assets/images/lagomar/pic3.jpg",
-            "./assets/images/lagomar/pic4.jpg",
-            "./assets/images/lagomar/pic5.jpg"
+            "./assets/images/lagomar/pic1.webp",
+            "./assets/images/lagomar/pic2.webp",
+            "./assets/images/lagomar/pic3.webp",
+            "./assets/images/lagomar/pic4.webp",
+            "./assets/images/lagomar/pic5.webp"
         ]
     },
     {
@@ -351,14 +351,14 @@
         "location": "Las Higueritas, Canelones, Uruguay",
         "area": "210",
         "pictures": [
-            "./assets/images/las-higueritas/pic1.jpg",
-            "./assets/images/las-higueritas/pic2.jpg",
-            "./assets/images/las-higueritas/pic3.jpg",
-            "./assets/images/las-higueritas/pic4.jpg",
-            "./assets/images/las-higueritas/pic5.jpg",
-            "./assets/images/las-higueritas/pic6.jpg",
-            "./assets/images/las-higueritas/pic7.jpg",
-            "./assets/images/las-higueritas/pic8.jpg"
+            "./assets/images/las-higueritas/pic1.webp",
+            "./assets/images/las-higueritas/pic2.webp",
+            "./assets/images/las-higueritas/pic3.webp",
+            "./assets/images/las-higueritas/pic4.webp",
+            "./assets/images/las-higueritas/pic5.webp",
+            "./assets/images/las-higueritas/pic6.webp",
+            "./assets/images/las-higueritas/pic7.webp",
+            "./assets/images/las-higueritas/pic8.webp"
         ]
     },
     {
@@ -378,10 +378,10 @@
         "location": "Punta Carretas, Montevideo, Uruguay",
         "area": "90",
         "pictures": [
-            "./assets/images/la-vanguardia/pic1.jpg",
-            "./assets/images/la-vanguardia/pic2.jpg",
-            "./assets/images/la-vanguardia/pic3.jpg",
-            "./assets/images/la-vanguardia/pic4.jpg"
+            "./assets/images/la-vanguardia/pic1.webp",
+            "./assets/images/la-vanguardia/pic2.webp",
+            "./assets/images/la-vanguardia/pic3.webp",
+            "./assets/images/la-vanguardia/pic4.webp"
         ]
     },
     {
@@ -401,13 +401,13 @@
         "location": "Punta Carretas, Montevideo, Uruguay",
         "area": "270",
         "pictures": [
-            "./assets/images/leyenda/pic1.jpg",
-            "./assets/images/leyenda/pic2.jpg",
-            "./assets/images/leyenda/pic3.jpg",
-            "./assets/images/leyenda/pic4.jpg",
-            "./assets/images/leyenda/pic5.jpg",
-            "./assets/images/leyenda/pic6.jpg",
-            "./assets/images/leyenda/pic7.jpg"
+            "./assets/images/leyenda/pic1.webp",
+            "./assets/images/leyenda/pic2.webp",
+            "./assets/images/leyenda/pic3.webp",
+            "./assets/images/leyenda/pic4.webp",
+            "./assets/images/leyenda/pic5.webp",
+            "./assets/images/leyenda/pic6.webp",
+            "./assets/images/leyenda/pic7.webp"
         ]
     },
     {
@@ -427,13 +427,13 @@
         "location": "Asunción, Paraguay",
         "area": "210",
         "pictures": [
-            "./assets/images/leyenda-asuncion/pic1.jpg",
-            "./assets/images/leyenda-asuncion/pic2.jpg",
-            "./assets/images/leyenda-asuncion/pic3.jpg",
-            "./assets/images/leyenda-asuncion/pic4.jpg",
-            "./assets/images/leyenda-asuncion/pic5.jpg",
-            "./assets/images/leyenda-asuncion/pic6.jpg",
-            "./assets/images/leyenda-asuncion/pic7.jpg"
+            "./assets/images/leyenda-asuncion/pic1.webp",
+            "./assets/images/leyenda-asuncion/pic2.webp",
+            "./assets/images/leyenda-asuncion/pic3.webp",
+            "./assets/images/leyenda-asuncion/pic4.webp",
+            "./assets/images/leyenda-asuncion/pic5.webp",
+            "./assets/images/leyenda-asuncion/pic6.webp",
+            "./assets/images/leyenda-asuncion/pic7.webp"
         ]
     },
     {
@@ -453,10 +453,10 @@
         "location": "Punta Carretas, Montevideo, Uruguay",
         "area": "100",
         "pictures": [
-            "./assets/images/leyenda-parque-villa-biarritz/pic1.jpg",
-            "./assets/images/leyenda-parque-villa-biarritz/pic2.jpg",
-            "./assets/images/leyenda-parque-villa-biarritz/pic3.jpg",
-            "./assets/images/leyenda-parque-villa-biarritz/pic4.jpg"
+            "./assets/images/leyenda-parque-villa-biarritz/pic1.webp",
+            "./assets/images/leyenda-parque-villa-biarritz/pic2.webp",
+            "./assets/images/leyenda-parque-villa-biarritz/pic3.webp",
+            "./assets/images/leyenda-parque-villa-biarritz/pic4.webp"
         ]
     },
     {
@@ -476,11 +476,11 @@
         "location": "Playa Mansa, Punta del Este, Uruguay",
         "area": "1500",
         "pictures": [
-            "./assets/images/magnum/pic1.jpg",
-            "./assets/images/magnum/pic2.jpg",
-            "./assets/images/magnum/pic3.jpg",
-            "./assets/images/magnum/pic4.jpg",
-            "./assets/images/magnum/pic5.jpg"
+            "./assets/images/magnum/pic1.webp",
+            "./assets/images/magnum/pic2.webp",
+            "./assets/images/magnum/pic3.webp",
+            "./assets/images/magnum/pic4.webp",
+            "./assets/images/magnum/pic5.webp"
         ]
     },
     {
@@ -500,12 +500,12 @@
         "location": "Carrasco, Montevideo, Uruguay",
         "area": "767",
         "pictures": [
-            "./assets/images/magnum-arocena/pic1.jpg",
-            "./assets/images/magnum-arocena/pic2.jpg",
-            "./assets/images/magnum-arocena/pic3.jpg",
-            "./assets/images/magnum-arocena/pic4.jpg",
-            "./assets/images/magnum-arocena/pic5.jpg",
-            "./assets/images/magnum-arocena/pic6.jpg"
+            "./assets/images/magnum-arocena/pic1.webp",
+            "./assets/images/magnum-arocena/pic2.webp",
+            "./assets/images/magnum-arocena/pic3.webp",
+            "./assets/images/magnum-arocena/pic4.webp",
+            "./assets/images/magnum-arocena/pic5.webp",
+            "./assets/images/magnum-arocena/pic6.webp"
         ]
     },
     {
@@ -525,9 +525,9 @@
         "location": "Punta del Este, Maldonado, Uruguay",
         "area": "500",
         "pictures": [
-            "./assets/images/magnum-pedra/pic1.jpg",
-            "./assets/images/magnum-pedra/pic2.jpg",
-            "./assets/images/magnum-pedra/pic3.jpg"
+            "./assets/images/magnum-pedra/pic1.webp",
+            "./assets/images/magnum-pedra/pic2.webp",
+            "./assets/images/magnum-pedra/pic3.webp"
         ]
     },
     {
@@ -547,10 +547,10 @@
         "location": "Punta Carretas, Montevideo, Uruguay",
         "area": "130",
         "pictures": [
-            "./assets/images/magnum-pta/pic1.jpg",
-            "./assets/images/magnum-pta/pic2.jpg",
-            "./assets/images/magnum-pta/pic3.jpg",
-            "./assets/images/magnum-pta/pic4.jpg"
+            "./assets/images/magnum-pta/pic1.webp",
+            "./assets/images/magnum-pta/pic2.webp",
+            "./assets/images/magnum-pta/pic3.webp",
+            "./assets/images/magnum-pta/pic4.webp"
         ]
     },
     {
@@ -570,12 +570,12 @@
         "location": "Malvín, Montevideo, Uruguay",
         "area": "60",
         "pictures": [
-            "./assets/images/malvin/pic1.jpg",
-            "./assets/images/malvin/pic2.jpg",
-            "./assets/images/malvin/pic3.jpg",
-            "./assets/images/malvin/pic4.jpg",
-            "./assets/images/malvin/pic5.jpg",
-            "./assets/images/malvin/pic6.jpg"
+            "./assets/images/malvin/pic1.webp",
+            "./assets/images/malvin/pic2.webp",
+            "./assets/images/malvin/pic3.webp",
+            "./assets/images/malvin/pic4.webp",
+            "./assets/images/malvin/pic5.webp",
+            "./assets/images/malvin/pic6.webp"
         ]
     },
     {
@@ -599,11 +599,11 @@
         "location": "Nuevocentro Shopping, Montevideo, Uruguay",
         "area": "450",
         "pictures": [
-            "./assets/images/motenvc/pic1.jpg",
-            "./assets/images/motenvc/pic2.jpg",
-            "./assets/images/motenvc/pic3.jpg",
-            "./assets/images/motenvc/pic4.jpg",
-            "./assets/images/motenvc/pic5.jpg"
+            "./assets/images/motenvc/pic1.webp",
+            "./assets/images/motenvc/pic2.webp",
+            "./assets/images/motenvc/pic3.webp",
+            "./assets/images/motenvc/pic4.webp",
+            "./assets/images/motenvc/pic5.webp"
         ]
     },
     {
@@ -627,10 +627,10 @@
         "location": "Shopping Tres Cruces, Montevideo, Uruguay",
         "area": "400",
         "pictures": [
-            "./assets/images/motexxx/pic1.jpg",
-            "./assets/images/motexxx/pic2.jpg",
-            "./assets/images/motexxx/pic3.jpg",
-            "./assets/images/motexxx/pic4.jpg"
+            "./assets/images/motexxx/pic1.webp",
+            "./assets/images/motexxx/pic2.webp",
+            "./assets/images/motexxx/pic3.webp",
+            "./assets/images/motexxx/pic4.webp"
         ]
     },
     {
@@ -650,10 +650,10 @@
         "location": "Melilla, Montevideo, Uruguay",
         "area": "80",
         "pictures": [
-            "./assets/images/tavares/pic1.jpg",
-            "./assets/images/tavares/pic2.jpg",
-            "./assets/images/tavares/pic3.jpg",
-            "./assets/images/tavares/pic4.jpg"
+            "./assets/images/tavares/pic1.webp",
+            "./assets/images/tavares/pic2.webp",
+            "./assets/images/tavares/pic3.webp",
+            "./assets/images/tavares/pic4.webp"
         ]
     },
     {
@@ -673,13 +673,13 @@
         "location": "Pocitos, Montevideo, Uruguay",
         "area": "70",
         "pictures": [
-            "./assets/images/tienda-olivares/pic1.jpg",
-            "./assets/images/tienda-olivares/pic2.jpg",
-            "./assets/images/tienda-olivares/pic3.jpg",
-            "./assets/images/tienda-olivares/pic4.jpg",
-            "./assets/images/tienda-olivares/pic5.jpg",
-            "./assets/images/tienda-olivares/pic6.jpg",
-            "./assets/images/tienda-olivares/pic7.jpg"
+            "./assets/images/tienda-olivares/pic1.webp",
+            "./assets/images/tienda-olivares/pic2.webp",
+            "./assets/images/tienda-olivares/pic3.webp",
+            "./assets/images/tienda-olivares/pic4.webp",
+            "./assets/images/tienda-olivares/pic5.webp",
+            "./assets/images/tienda-olivares/pic6.webp",
+            "./assets/images/tienda-olivares/pic7.webp"
         ]
     },
     {
@@ -700,12 +700,12 @@
         "location": "Pocitos, Montevideo, Uruguay",
         "area": "650",
         "pictures": [
-            "./assets/images/edificio-araucho/pic1.jpg",
-            "./assets/images/edificio-araucho/pic2.jpg",
-            "./assets/images/edificio-araucho/pic3.jpg",
-            "./assets/images/edificio-araucho/pic4.jpg",
-            "./assets/images/edificio-araucho/pic5.jpg",
-            "./assets/images/edificio-araucho/pic6.jpg"
+            "./assets/images/edificio-araucho/pic1.webp",
+            "./assets/images/edificio-araucho/pic2.webp",
+            "./assets/images/edificio-araucho/pic3.webp",
+            "./assets/images/edificio-araucho/pic4.webp",
+            "./assets/images/edificio-araucho/pic5.webp",
+            "./assets/images/edificio-araucho/pic6.webp"
         ]
     }
 ]
