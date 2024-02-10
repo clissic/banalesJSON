@@ -2,7 +2,7 @@
     {
         "id": "0",
         "url":"./lagomar.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Lagomar",
         "author": "",
         "collaborators": "Arq. María Belén Druillet",
@@ -29,7 +29,7 @@
     {
         "id": "1",
         "url":"./mote-nuevocentro.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Möte Nuevocentro",
         "proyect_construction:": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos",
         "construction_manager": "Arq. Juan Pablo Garret",
@@ -85,7 +85,7 @@
     {
         "id": "3",
         "url":"./magnum-sushi.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Magnum Sushi",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Arq. Martín Xifre",
@@ -108,7 +108,7 @@
     {
         "id": "4",
         "url":"./malvin.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Malvín",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "",
@@ -133,7 +133,7 @@
     {
         "id": "5",
         "url":"./mote-trescruces.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Möte Tres Cruces",
         "proyect_construction:": "Trabajo en conjunto con estudio Gualano + Gualano Arquitectos",
         "construction_manager": "Arq. Juan Pablo Garret",
@@ -186,7 +186,7 @@
     {
         "id": "7",
         "url":"./magnum-carrasco.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Magnum Carrasco",
         "author": "Arq. Esteban Sanchez",
         "collaborators": "Arq. María Belén Druillet / Arq. Elena Petit / Arq. Diego Baglini",
@@ -211,7 +211,7 @@
     {
         "id": "8",
         "url":"./las-higueritas.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Las Higueritas",
         "author": "Arq. Agustin Fiorito / Arq. Darío Colacce / Arq. Nicolas Bañales / Ing. Mariano Veiga / Ing. Leandro Veiga (V&V ingeniería)",
         "collaborators": "Arq. María Belén Druillet",
@@ -238,7 +238,7 @@
     {
         "id": "9",
         "url":"./be-ganesha.html",
-        "outstanding": true,
+        "outstanding": false,
         "name": "Be Ganesha",
         "author": "",
         "collaborators": "Arq. Elena Petit",
@@ -290,7 +290,7 @@
     {
         "id": "11",
         "url":"./la-diagonal.html",
-        "outstanding": true,
+        "outstanding": false,
         "name": "La Diagonal",
         "author": "Arq. María Belén Druillet",
         "collaborators": "Arq. Martín Xifré",
@@ -317,7 +317,7 @@
     {
         "id": "12",
         "url":"./bella-vista.html",
-        "outstanding": true,
+        "outstanding": false,
         "name": "Bella Vista",
         "author": "",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifré",
@@ -372,7 +372,7 @@
     {
         "id": "14",
         "url":"./fita.html",
-        "outstanding": true,
+        "outstanding": false,
         "name": "Fita",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Arq. Martín Xifre",
@@ -447,7 +447,7 @@
     {
         "id": "17",
         "url":"./cafe-bacacay.html",
-        "outstanding": true,
+        "outstanding": false,
         "name": "Café Bacacay",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifre",
@@ -472,7 +472,7 @@
     {
         "id": "18",
         "url":"./califa.html",
-        "outstanding": true,
+        "outstanding": false,
         "name": "Container Califa",
         "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
         "collaborators": "Ing. Carlos Colacce",
@@ -636,7 +636,7 @@
     {
         "id": "25",
         "url":"./julieta-carrasco.html",
-        "outstanding": true,
+        "outstanding": false,
         "name": "Julieta Carrasco",
         "author": "Arq. Nicolás Bañales / Arq. Darío Colacce",
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifre",
