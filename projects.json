@@ -2,7 +2,7 @@
     {
         "id": "0",
         "url":"./asuncion.html",
-        "outstanding": false,
+        "outstanding": true,
         "name": "Asunción",
         "author": "Arq. Esteban Sanchez",
         "collaborators": "Arq. Enrique Bañales / Arq. Verónica Diaz",
@@ -109,7 +109,7 @@
         "id": "4",
         "url":"./reciclaje-barrio-sur.html",
         "outstanding": true,
-        "name": "Lagomar",
+        "name": "Reciclaje Barrio Sur",
         "author": "",
         "collaborators": "Arq. María Belén Druillet",
         "photos": "",
@@ -267,26 +267,25 @@
         "id": "10",
         "url":"./las-higueritas.html",
         "outstanding": false,
-        "name": "Olivares Salteños",
-        "author": "",
-        "collaborators": "Arq. María Belén Druillet",
-        "photos": "Juan Nin",
+        "name": "Las Higueritas",
+        "author": "Arq. Agustin Fiorito / Arq. Darío Colacce / Arq. Nicolas Bañales / Ing. Mariano Veiga / Ing. Leandro Veiga (V&V ingeniería)",
         "type": [
-            "Tienda de venta",
-            " Retail"
+            "Vivienda",
+            " Residencial"
         ],
-        "scope": "Proyecto y Construcción",
-        "date": "2021",
-        "location": "Pocitos, Montevideo, Uruguay",
-        "area": "70",
+        "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de Obra",
+        "date": "2017-2018",
+        "location": "Las Higueritas, Canelones, Uruguay",
+        "area": "210",
         "pictures": [
-            "./assets/images/tienda-olivares/pic1.webp",
-            "./assets/images/tienda-olivares/pic2.webp",
-            "./assets/images/tienda-olivares/pic3.webp",
-            "./assets/images/tienda-olivares/pic4.webp",
-            "./assets/images/tienda-olivares/pic5.webp",
-            "./assets/images/tienda-olivares/pic6.webp",
-            "./assets/images/tienda-olivares/pic7.webp"
+            "./assets/images/las-higueritas/pic1.webp",
+            "./assets/images/las-higueritas/pic2.webp",
+            "./assets/images/las-higueritas/pic3.webp",
+            "./assets/images/las-higueritas/pic4.webp",
+            "./assets/images/las-higueritas/pic5.webp",
+            "./assets/images/las-higueritas/pic6.webp",
+            "./assets/images/las-higueritas/pic7.webp",
+            "./assets/images/las-higueritas/pic8.webp"
         ]
     },
     {
@@ -298,8 +297,8 @@
         "collaborators": "Arq. María Belén Druillet / Arq. Martín Xifre",
         "photos": "Paula Varela",
         "type": [
-            "Vivienda",
-            " Residencial"
+            "Restaurante",
+            " Retail"
         ],
         "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
         "date": "2018",
@@ -386,11 +385,7 @@
         "pictures": [
             "./assets/images/fita/pic1.webp",
             "./assets/images/fita/pic2.webp",
-            "./assets/images/fita/pic3.webp",
-            "./assets/images/fita/pic4.webp",
-            "./assets/images/fita/pic5.webp",
-            "./assets/images/fita/pic6.webp",
-            "./assets/images/fita/pic7.webp"
+            "./assets/images/fita/pic3.webp"
         ]
     },
     {
@@ -541,23 +536,26 @@
         "id": "22",
         "url":"./olivares-s.html",
         "outstanding": false,
-        "name": "Kaboa",
-        "author": "Arq. Nicolás Bañales / Arq. Agustin Fiorito / Arq. Darío Colacce",
+        "name": "Olivares Salteños",
+        "author": "",
         "collaborators": "",
         "photos": "",
         "type": [
-            "Tienda de Ropa",
+            "Tienda de Venta",
             " Retail"
         ],
-        "scope": "Anteproyecto, Proyecto ejecutivo y Ejecución de obra",
-        "date": "2017",
-        "location": "Punta del Este, Maldonado, Uruguay",
-        "area": "90",
+        "scope": "Proyecto y Construcción",
+        "date": "2021",
+        "location": "Pocitos, Montevideo, Uruguay",
+        "area": "70",
         "pictures": [
-            "./assets/images/kaboa/pic1.webp",
-            "./assets/images/kaboa/pic2.webp",
-            "./assets/images/kaboa/pic3.webp",
-            "./assets/images/kaboa/pic4.webp"
+            "./assets/images/tienda-olivares/pic1.webp",
+            "./assets/images/tienda-olivares/pic2.webp",
+            "./assets/images/tienda-olivares/pic3.webp",
+            "./assets/images/tienda-olivares/pic4.webp",
+            "./assets/images/tienda-olivares/pic5.webp",
+            "./assets/images/tienda-olivares/pic6.webp",
+            "./assets/images/tienda-olivares/pic7.webp"
         ]
     },
     {
